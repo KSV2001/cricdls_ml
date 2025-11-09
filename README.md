@@ -1,0 +1,3 @@
+# CricML
+
+Repo scaffold generated.

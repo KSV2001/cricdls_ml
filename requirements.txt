@@ -1,0 +1,8 @@
+pandas
+numpy
+gradio
+matplotlib
+pyarrow
+fastparquet
+scikit-learn
+tqdm
